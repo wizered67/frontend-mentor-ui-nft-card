@@ -1,6 +1,8 @@
 .attribution {
   font-size: 11px;
   text-align: center;
+  margin-top: auto;
+  margin-bottom: 0.5rem;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
@@ -47,6 +49,7 @@ p {
   width: 18rem;
   padding: 1.5rem;
   border-radius: 1rem;
+  margin-top: auto;
 }
 
 .imageContainer {
